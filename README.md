@@ -1,11 +1,11 @@
-# 🎓 Sistema de Gestión de Estudiantes
+# Sistema de Gestión de Estudiantes
 
 Este proyecto es una **aplicación de consola en Java** que permite gestionar estudiantes de forma sencilla e interactiva.  
 El usuario puede **agregar, listar, actualizar y eliminar** estudiantes, trabajando con **POO** y validación de datos.
 
 ---
 
-## 🚀 Características principales
+## Características principales
 
 - Agregar estudiantes con nombre, edad y promedio.  
 - Listar todos los estudiantes registrados.  
@@ -16,7 +16,7 @@ El usuario puede **agregar, listar, actualizar y eliminar** estudiantes, trabaja
 
 ---
 
-## 🧠 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **Java** → Lógica principal y POO.  
 - **ArrayList** → Almacenamiento dinámico de estudiantes.  
@@ -24,7 +24,7 @@ El usuario puede **agregar, listar, actualizar y eliminar** estudiantes, trabaja
 
 ---
 
-## ⚙️ Cómo ejecutar el proyecto
+## Cómo ejecutar el proyecto
 
 1. Clona este repositorio:
    ```bash
@@ -41,24 +41,24 @@ El usuario puede **agregar, listar, actualizar y eliminar** estudiantes, trabaja
 
 ---
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
 ```
-📁 sistema-gestion-estudiantes
+sistema-gestion-estudiantes
 ├── SistemaGestionEstudiantes.java   # Lógica principal y menú.
 └── README.md                        # Documentación del proyecto.
 ```
 
 ---
 
-## 🧑‍💻 Autor
+## Autor
 
 **Alan Aquino.**  
 Estudiante de Ingeniería en Informática.
 
 ---
 
-## 🪪 Licencia
+## Licencia
 
 Este proyecto se distribuye bajo la **Licencia MIT**.  
 Puedes usarlo, modificarlo y compartirlo dando el crédito correspondiente.
