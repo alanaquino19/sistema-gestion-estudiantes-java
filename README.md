@@ -44,7 +44,7 @@ El usuario puede **agregar, listar, actualizar y eliminar** estudiantes, trabaja
 ## Estructura del proyecto
 
 ```
-sistema-gestion-estudiantes
+sistema-gestion-estudiantes-java
 ├── SistemaGestionEstudiantes.java   # Lógica principal y menú.
 └── README.md                        # Documentación del proyecto.
 ```
