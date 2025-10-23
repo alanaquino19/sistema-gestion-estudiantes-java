@@ -53,8 +53,7 @@ sistema-gestion-estudiantes-java
 
 ## Autor
 
-**Alan Aquino.**  
-Estudiante de Ingeniería en Informática.
+Alan Aquino.
 
 ---
 
