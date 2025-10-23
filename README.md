@@ -18,9 +18,9 @@ El usuario puede **agregar, listar, actualizar y eliminar** estudiantes, trabaja
 
 ## Tecnologías utilizadas
 
-- **Java** → Lógica principal y POO.  
-- **ArrayList** → Almacenamiento dinámico de estudiantes.  
-- **Scanner** → Entrada de datos del usuario.
+- **Java**: Lógica principal y POO.  
+- **ArrayList**: Almacenamiento dinámico de estudiantes.  
+- **Scanner**: Entrada de datos del usuario.
 
 ---
 
@@ -28,7 +28,7 @@ El usuario puede **agregar, listar, actualizar y eliminar** estudiantes, trabaja
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/alanaquino72/sistema-gestion-estudiantes-java.git
+   git clone https://github.com/alanaquino19/sistema-gestion-estudiantes-java.git
    ```
 2. Compila el archivo Java:
    ```bash
